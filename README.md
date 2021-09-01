@@ -24,4 +24,4 @@ Uma outra alternativa é baixar os componentes e fazer a instalação deles indi
 ***Faça o Download do pacote***: [Pacote EventO - Clique aqui](https://github.com/pipufg/evento/blob/master/pkg_pip_componentes.zip)
 
 2.	Realizar a instalação e ativação dos componentes na seção de extensões, da área administrativa do Joomla:
-  Veja o passo a passo [clicando aqui]()
+  Veja o passo a passo [clicando aqui](https://github.com/MarcusShaider/Testes/blob/main/Instalando%20componentes.png)
