@@ -1,7 +1,7 @@
 # Sistema de Gestão de Eventos Online - EventO
  O sistema ‘EventO’ (Sistema de Gestão de Eventos Online), motivado pelo contexto do isolamento social causado pela pandemia do novo Coronavírus, é uma plataforma desenvolvida com o intuito de viabilizar a realização de eventos de forma remota; A solução permite desde o gerenciamento de sessões públicas de apresentação on-line por meio de salas virtuais cadastradas no sistema, submissão de trabalhos na forma de pôsteres e vídeos até a customização geral da plataforma com ferramentas colaborativas, interação social e avaliação formal de trabalhos apresentados. O sistema ‘EventO’ também é baseado no Joomla, um sistema de gestão de conteúdo no qual é um software livre com licença GPL, sendo disponibilizado para ser utilizado, distribuído, customizado e melhorado de forma gratuita, dando a possibilidade de extensão para outros eventos.
 
-*Faça o Download do Manual do Usuário: [Manual do Usuário - Clique aqui](file:///C:/Users/Marcus-PC/Desktop/C%C3%B3pia%20de%20Manual-do-Utilizador-EVENTO.pdf) 
+*Faça o Download do Manual do Usuário*: [Manual do Usuário - Clique aqui](file:///C:/Users/Marcus-PC/Desktop/C%C3%B3pia%20de%20Manual-do-Utilizador-EVENTO.pdf) 
 
 # Lista de Pré-requisitos
 •	Tenha a última versão do Joomla instalada
@@ -21,6 +21,6 @@
 
 Uma outra alternativa é baixar os componentes e fazer a instalação deles individualmente.
 
-*Faça o Download do pacote :[Pacote EventO - Clique aqui](https://github.com/pipufg/evento/blob/master/pkg_pip_componentes.zip)
+*Faça o Download do pacote*: [Pacote EventO - Clique aqui](https://github.com/pipufg/evento/blob/master/pkg_pip_componentes.zip)
 
 2.	Realizar a instalação e ativação dos componentes na seção de extensões, da área administrativa do Joomla
