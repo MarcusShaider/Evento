@@ -1,7 +1,7 @@
 # Sistema de Gestão de Eventos Online - EventO
   O sistema ‘EventO’ (Sistema de Gestão de Eventos Online), motivado pelo contexto do isolamento social causado pela pandemia do novo Coronavírus, é uma plataforma desenvolvida com o intuito de viabilizar a realização de eventos de forma remota; A solução permite desde o gerenciamento de sessões públicas de apresentação on-line por meio de salas virtuais cadastradas no sistema, submissão de trabalhos na forma de pôsteres e vídeos até a customização geral da plataforma com ferramentas colaborativas, interação social e avaliação formal de trabalhos apresentados. O sistema ‘EventO’ também é baseado no Joomla, um sistema de gestão de conteúdo no qual é um software livre com licença GPL, sendo disponibilizado para ser utilizado, distribuído, customizado e melhorado de forma gratuita, dando a possibilidade de extensão para outros eventos.
 
-***Faça o Download do Manual do Usuário***: [Manual do Usuário - Clique aqui] 
+***Faça o Download do Manual do Usuário***: [Manual do Usuário - Clique aqui](https://docs.google.com/document/d/e/2PACX-1vS4GIIruMMCTdiG1L-qj3aNJjzILU2Gg_QfydBikB_8z3HMH9RMKBO4OhpB3C6aYwSO_OFbRTWe7Q7y/pub)
 
 # Lista de Pré-requisitos
 - Tenha a última versão do Joomla instalada
